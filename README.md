@@ -1,6 +1,6 @@
 # EasyResolvers
 
-**TODO: Add description**
+## Provides a reliable, effortless baseline graphql API based on your Ecto schema
 
 ## Installation
 
